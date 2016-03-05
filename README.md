@@ -11,11 +11,11 @@
 	（设计使用经验总结 与 [项目实践(Wehome)-开发中](https://github.com/lizhaoxuan/WeHome)）
 
 
-- [**更节约的网络架构设计**]()
+- [**更节约的网络架构设计**](./更节约的网络架构设计.md)
 
-- [**设计模式实践报告 * 系列**]()
+- [**设计模式实践报告 * 系列（16篇）**](https://github.com/lizhaoxuan/DesignPatternPractice)
 
-- [**菜鸟的架构梦 ~ 心灵鸡汤**]()
+- [**菜鸟的架构梦 * 心灵鸡汤**](./菜鸟的架构梦*心灵鸡汤.md)
 
 
 
@@ -26,7 +26,7 @@
 	
 - [**ScrollBanner**](https://github.com/lizhaoxuan/ScrollBanner)
 
-	(可横向纵向自动滚动的Banner控件，较ViewPager性能更优)
+	(一个用法类似ListView 且性能高于ViewPager的滚动banner)
 - [**EmbedView**](https://github.com/lizhaoxuan/EmbedView)
 
 	(嵌入式View框架，可将Toolbar、TopView、TipView等公共View提前包装进更布局)
