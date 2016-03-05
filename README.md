@@ -4,9 +4,12 @@
 
 
 ###架构与设计模式
-**架构的一个天然目的就是：让代码更智能让程序员更傻瓜。换一张说法就是，架构要“创造便利，让程序员更关注业务”。**
+**架构的一个天然目的就是：让代码更智能让程序员更傻瓜。换一种说法就是，架构要“创造便利，让程序员更关注业务”。**
 
-- [**MVP架构设计理念**]()
+- [**类MVP架构设计理念**]()
+
+	（设计使用经验总结 与 [项目实践(Wehome)-开发中](https://github.com/lizhaoxuan/WeHome)）
+
 
 - [**更节约的网络架构设计**]()
 
@@ -18,13 +21,13 @@
 
 ###开源库
 
-*（无论如何都无法 upload 到JCenter，所有以下类库无法直接导入项目,想哭）*
+*（找不到原因，导致无法 upload 到 jCenter，所以以下类库暂时无法直接导入项目,想哭）*
 
 	
 - [**ScrollBanner**](https://github.com/lizhaoxuan/ScrollBanner)
 
 	(可横向纵向自动滚动的Banner控件，较ViewPager性能更优)
-- [**EmbedView**]()
+- [**EmbedView**](https://github.com/lizhaoxuan/EmbedView)
 
 	(嵌入式View框架，可将Toolbar、TopView、TipView等公共View提前包装进更布局)
 
@@ -45,19 +48,22 @@
 
 - [**性能优化编码规范**](https://github.com/lizhaoxuan/Android-performance-norm) 
 
-	（Android开发关于性能的编码规范，将性能优化具体到代码段级别）
+	(Android开发关于性能的编码规范，将性能优化具体到代码段级别）
+	
+- [**AndroidRenderingPerformanceOptimization**](https://github.com/lizhaoxuan/AndroidRenderingPerformanceOptimization/tree/master)
+
+	(Android性能优化-View优化 过度绘制与图形渲染优化)
+	
+- [**SoftWidget**](https://github.com/lizhaoxuan/SoftWidgetDemo)
+
+	(Android性能优化-View优化 过度绘制深度优化 - View提前绘制)
+	
 	
 - [**Android-GC-Research**](https://github.com/lizhaoxuan/Android-GC-Research)
 
 	(Android GC 机制调研)
 	
-- [**AndroidRenderingPerformanceOptimization**](https://github.com/lizhaoxuan/AndroidRenderingPerformanceOptimization/tree/master)
 
-	(Android 过度绘制与图形渲染优化)
-	
-- [**SoftWidget**](https://github.com/lizhaoxuan/SoftWidgetDemo)
-
-	(Android 过度绘制优化 - View提前绘制)
 	
 - [**Android 性能调优工具**](https://github.com/lizhaoxuan/Android-performance-tool)
 
@@ -78,7 +84,7 @@
 
 - [**DemoList**](https://github.com/lizhaoxuan/DemoList)
 
-	各类Demo集合
+	各类Demo集合（后期被当做了新功能测试Damo，被改的乱七八糟）
 
 	
 	
