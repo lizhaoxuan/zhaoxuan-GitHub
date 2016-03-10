@@ -13,7 +13,7 @@
 
 - [**更节约的网络架构设计**](./更节约的网络架构设计.md)
 
-- [**基于观察者的请求分发组**]()
+- [**基于观察者和反射机制的请求分发组**](https://github.com/lizhaoxuan/Distribute)
 
 
 - [**设计模式实践报告 * 系列（16篇）**](https://github.com/lizhaoxuan/DesignPatternPractice)
@@ -32,6 +32,11 @@
 - [**EmbedView**](https://github.com/lizhaoxuan/EmbedView)
 
 	(嵌入式View框架，可将Toolbar、TopView、TipView等公共View提前包装进更布局)
+	
+- [**Distribute**](https://github.com/lizhaoxuan/Distribute)
+
+	（基于观察者和反射机制的请求分发组）
+
 
 ***学习类型***
 
