@@ -15,10 +15,6 @@
 
 - [**设计模式实践报告 * 系列（16篇）**](https://github.com/lizhaoxuan/DesignPatternPractice)
 
-- [**更节约的网络架构设计**](./更节约的网络架构设计.md) 
-
-	(代码实现搁置，暂未找到更好的使用体验)
-
 
 ###开源库
 
